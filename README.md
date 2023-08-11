@@ -1,4 +1,4 @@
-# Global Super Store Sales Analysis
+# Global Super Store Sales Analysis Using Power BI
 The project is designed to provide insights into the sales performance of the Global Superstore through interactive dashboards and visualizations. Here's a brief overview of the key features and insights offered by this project:
 
 ## Insights:
